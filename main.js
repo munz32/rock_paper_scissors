@@ -18,6 +18,7 @@ function getComputerChoice(){
 
 
 
+
 function getHumanChoice(){
     y = prompt("What is your RPS selection?")
     return(y)
